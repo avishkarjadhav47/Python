@@ -1,2 +1,2 @@
 # Python
-Collection of Python concepts, practice codes, and mini projects for placement preparation.
+Collection of Python concepts, practice codes, and mini projects for learning.
